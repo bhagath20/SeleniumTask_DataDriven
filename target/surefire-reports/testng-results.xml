@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="124715" started-at="2018-01-04T20:55:32Z" finished-at="2018-01-04T20:57:36Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="124715" started-at="2018-01-04T20:55:32Z" finished-at="2018-01-04T20:57:36Z">
+      <class name="uk.gov.testcases.VehicleTest">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:uk.gov.testcases.VehicleTest@7f690630]" name="openApplication" is-config="true" duration-ms="54612" started-at="2018-01-04T20:55:33Z" finished-at="2018-01-04T20:56:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="checkVehicle(java.lang.String, java.lang.String)[pri:0, instance:uk.gov.testcases.VehicleTest@7f690630]" name="checkVehicle" duration-ms="13568" started-at="2018-01-04T20:56:27Z" data-provider="getData" finished-at="2018-01-04T20:56:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[OE07 AAX]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FORD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkVehicle -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:uk.gov.testcases.VehicleTest@7f690630]" name="closeBrowser" is-config="true" duration-ms="1847" started-at="2018-01-04T20:56:41Z" finished-at="2018-01-04T20:56:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:uk.gov.testcases.VehicleTest@7f690630]" name="openApplication" is-config="true" duration-ms="13170" started-at="2018-01-04T20:56:43Z" finished-at="2018-01-04T20:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="checkVehicle(java.lang.String, java.lang.String)[pri:0, instance:uk.gov.testcases.VehicleTest@7f690630]" name="checkVehicle" duration-ms="5480" started-at="2018-01-04T20:56:56Z" data-provider="getData" finished-at="2018-01-04T20:57:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AF57 UBD]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[NISSAN]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkVehicle -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:uk.gov.testcases.VehicleTest@7f690630]" name="closeBrowser" is-config="true" duration-ms="569" started-at="2018-01-04T20:57:01Z" finished-at="2018-01-04T20:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:uk.gov.testcases.VehicleTest@7f690630]" name="openApplication" is-config="true" duration-ms="18260" started-at="2018-01-04T20:57:02Z" finished-at="2018-01-04T20:57:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="checkVehicle(java.lang.String, java.lang.String)[pri:0, instance:uk.gov.testcases.VehicleTest@7f690630]" name="checkVehicle" duration-ms="2929" started-at="2018-01-04T20:57:20Z" data-provider="getData" finished-at="2018-01-04T20:57:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RK05 BZT]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SAAB]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkVehicle -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:uk.gov.testcases.VehicleTest@7f690630]" name="closeBrowser" is-config="true" duration-ms="431" started-at="2018-01-04T20:57:23Z" finished-at="2018-01-04T20:57:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:uk.gov.testcases.VehicleTest@7f690630]" name="openApplication" is-config="true" duration-ms="9541" started-at="2018-01-04T20:57:24Z" finished-at="2018-01-04T20:57:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="checkVehicle(java.lang.String, java.lang.String)[pri:0, instance:uk.gov.testcases.VehicleTest@7f690630]" name="checkVehicle" duration-ms="2745" started-at="2018-01-04T20:57:33Z" data-provider="getData" finished-at="2018-01-04T20:57:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RK07 VLM]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AUDI]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkVehicle -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:uk.gov.testcases.VehicleTest@7f690630]" name="closeBrowser" is-config="true" duration-ms="418" started-at="2018-01-04T20:57:36Z" finished-at="2018-01-04T20:57:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- uk.gov.testcases.VehicleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
